@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasinoInsight.Actors", "CasinoInsight.Actors\CasinoInsight.Actors.csproj", "{0F8AB0DB-29ED-4455-9C88-535B3CEFAF4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasinoInsight.Server", "CasinoInsight.Server\CasinoInsight.Server.csproj", "{27F6555F-CB85-4079-8AC8-5ED607287F1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasinoInsight.Client", "CasinoInsight.Client\CasinoInsight.Client.csproj", "{917AB9FB-161B-4238-8596-F72E975625D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F8AB0DB-29ED-4455-9C88-535B3CEFAF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8AB0DB-29ED-4455-9C88-535B3CEFAF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8AB0DB-29ED-4455-9C88-535B3CEFAF4B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0F8AB0DB-29ED-4455-9C88-535B3CEFAF4B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0F8AB0DB-29ED-4455-9C88-535B3CEFAF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8AB0DB-29ED-4455-9C88-535B3CEFAF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8AB0DB-29ED-4455-9C88-535B3CEFAF4B}.Release|x64.ActiveCfg = Release|Any CPU
+		{0F8AB0DB-29ED-4455-9C88-535B3CEFAF4B}.Release|x86.ActiveCfg = Release|Any CPU
+		{27F6555F-CB85-4079-8AC8-5ED607287F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F6555F-CB85-4079-8AC8-5ED607287F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F6555F-CB85-4079-8AC8-5ED607287F1B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{27F6555F-CB85-4079-8AC8-5ED607287F1B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{27F6555F-CB85-4079-8AC8-5ED607287F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F6555F-CB85-4079-8AC8-5ED607287F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F6555F-CB85-4079-8AC8-5ED607287F1B}.Release|x64.ActiveCfg = Release|Any CPU
+		{27F6555F-CB85-4079-8AC8-5ED607287F1B}.Release|x86.ActiveCfg = Release|Any CPU
+		{917AB9FB-161B-4238-8596-F72E975625D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917AB9FB-161B-4238-8596-F72E975625D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917AB9FB-161B-4238-8596-F72E975625D2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{917AB9FB-161B-4238-8596-F72E975625D2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{917AB9FB-161B-4238-8596-F72E975625D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917AB9FB-161B-4238-8596-F72E975625D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917AB9FB-161B-4238-8596-F72E975625D2}.Release|x64.ActiveCfg = Release|Any CPU
+		{917AB9FB-161B-4238-8596-F72E975625D2}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
